@@ -12,5 +12,5 @@ int resultado = 0;
 
 resultado = numeroVar + numeroConst;
 
-printf("El resultado es: %d", resultado);
+printf("El resultado es: %d\n", resultado);
 }
