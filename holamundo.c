@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
-void main(){
-    printf("Hola platzerito");
+int main(){
+    printf("Hola platzerito\n");
+
 }
