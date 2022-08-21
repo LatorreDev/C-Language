@@ -1,3 +1,0 @@
-# Flags for C compilation
-
--Wall -pedantic -Werror -Wextra
